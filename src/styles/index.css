@@ -1,3 +1,19 @@
-/* 
-    General Styles
-*/
+.navbar{
+    background-color: rgb(179, 122, 53);
+}
+.liDelContact{
+    margin-top: 1em;
+}
+.navbar h1{
+    padding: .5em;
+}
+.card-column{
+    width: 100%;
+    background-color: aliceblue;
+}
+.card-column:hover{
+    border: 1px solid black;
+}
+.btn-success{
+    margin-right: 1em;
+}
